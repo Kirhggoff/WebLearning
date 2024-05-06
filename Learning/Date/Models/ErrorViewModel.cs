@@ -1,4 +1,4 @@
-namespace Learning.Models
+namespace Learning.Date.Models
 {
     public class ErrorViewModel
     {

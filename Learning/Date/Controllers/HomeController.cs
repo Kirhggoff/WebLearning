@@ -2,7 +2,7 @@ using Learning.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Learning.Controllers
+namespace Learning.Date.Controllers
 {
     public class HomeController : Controller
     {
